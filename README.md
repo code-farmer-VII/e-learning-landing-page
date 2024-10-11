@@ -5,7 +5,7 @@ Welcome to the **E-Learning Landing Page** repository! This project is a respons
 
 ## 🚀 Demo
 
-[Live Demo](https://your-live-demo-link.com) (Replace with your deployed site URL)
+[Live Demo]([https://your-live-demo-link.com](https://e-learning-landing-page-dun.vercel.app/))
 
 ## 🛠️ Features
 
