@@ -17,7 +17,8 @@ Welcome to the **E-Learning Landing Page** repository! This project is a respons
 
 ## 📸 Screenshots
 
-![Landing Page Screenshot](https://your-screenshot-url.com) (Replace with an actual screenshot of your project)
+![e-learning](https://github.com/user-attachments/assets/72247019-7312-4f3a-a336-b1289d1ebe75)
+![e-learning1](https://github.com/user-attachments/assets/031e6aa9-ae41-42a0-bc34-6d95e1c149ba)
 
 ## 🛠️ Technologies Used
 
