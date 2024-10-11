@@ -86,7 +86,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Framer Motion](https://www.framer.com/motion/)
-```
+
 
 ### Notes:
 - Replace `https://your-live-demo-link.com`, `https://your-screenshot-url.com`, `https://github.com/your-username/e-learning-landing-page`, and other placeholders with actual links specific to your project.
