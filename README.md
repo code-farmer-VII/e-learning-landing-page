@@ -5,7 +5,7 @@ Welcome to the **E-Learning Landing Page** repository! This project is a respons
 
 ## 🚀 Demo
 
-[Live Demo]([https://your-live-demo-link.com](https://e-learning-landing-page-dun.vercel.app/))
+[Live Demo](https://e-learning-landing-page-dun.vercel.app/)
 
 ## 🛠️ Features
 
@@ -72,9 +72,7 @@ npm run start
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are always welcome!
 
-## 🔗 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## 👤 Author
 
@@ -88,8 +86,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Framer Motion](https://www.framer.com/motion/)
 
 
-### Notes:
-- Replace `https://your-live-demo-link.com`, `https://your-screenshot-url.com`, `https://github.com/your-username/e-learning-landing-page`, and other placeholders with actual links specific to your project.
-- Add a screenshot of your landing page under the **Screenshots** section.
-- Include your personal or portfolio links in the **Author** section.
+
 
